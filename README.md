@@ -3,7 +3,7 @@
 Interactive Excel dashboard analyzing employee attrition (IBM HR dataset) - uncovers key drivers like age, tenure, overtime & job role using Pivot Tables, slicers & GETPIVOTDATA.
 
 ### Dashboard Preview
-![HR Attrition Dashboard](images/dashboard_screenshot.png)
+![HR Attrition Dashboard](https://github.com/aakriti80043-create/IBM-HR-Attrition-and-Workforce-Analytics-Dashboard/blob/main/Hr%20Dashboard.png)
 
 **Tool:** Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, GETPIVOTDATA, Conditional Formatting)
 **Dataset:** [IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (Kaggle) — 1,470 employee records
