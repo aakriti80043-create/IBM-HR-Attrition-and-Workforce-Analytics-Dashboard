@@ -6,7 +6,7 @@ Interactive Excel dashboard analyzing employee attrition (IBM HR dataset) - unco
 ![HR Attrition Dashboard](https://github.com/aakriti80043-create/IBM-HR-Attrition-and-Workforce-Analytics-Dashboard/blob/main/Hr%20Dashboard.png)
 
 **Tool:** Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, GETPIVOTDATA, Conditional Formatting)
-**Dataset:** [IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (Kaggle) — 1,470 employee records
+**Dataset:** [IBM HR Analytics Employee Attrition Dataset](https://github.com/aakriti80043-create/IBM-HR-Attrition-and-Workforce-Analytics-Dashboard/blob/main/IBM%20HR%20Analytics%20Employee%20Attrition%20Dataset.csv) (Kaggle) — 1,470 employee records
 
 ---
 
